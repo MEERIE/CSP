@@ -3,10 +3,8 @@ layout: default
 title: Ameer's Student Blog
 ---
 
-
-<h1 style="color: blue;"> AMEER'S BLOG </h1>
+<h1 style="color: purple;"> AMEER'S BLOG </h1>
 <p>talk abt urself</p>
-
 <h1>Making the Blog</h1>
 <p>xxxxx</p>
 
