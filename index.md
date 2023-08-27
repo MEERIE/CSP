@@ -8,6 +8,6 @@ title: Ameer's Student Blog
 <img src="https://pasteboard.co/JGQa2XU8HXjg.jpg">
 <h1>Making the Blog</h1>
 <p>xxxxx</p>
-
+![Alt text](image.png)
 <h1>Errors I ran into</h1>
 <p>blah blah</p>
